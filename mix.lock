@@ -1,0 +1,3 @@
+%{
+  "erlsom": {:git, "git@github.com:willemdj/erlsom.git", "af539d4951c55f8cc35fe7373e96b0dbbac7e8fa", []},
+}
